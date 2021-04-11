@@ -183,6 +183,7 @@
             this.txtNeed.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtNeed.Location = new System.Drawing.Point(151, 48);
             this.txtNeed.Name = "txtNeed";
+            this.txtNeed.ReadOnly = true;
             this.txtNeed.Size = new System.Drawing.Size(297, 24);
             this.txtNeed.TabIndex = 4;
             // 
