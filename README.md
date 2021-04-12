@@ -1,8 +1,7 @@
 # Simple Chemical Expert System
 
-## Điều chế chất hóa học sử dụng hệ chuyên gia (UI hơi sida vì mình bị ngáo)
+## Điều chế chất hóa học sử dụng hệ chuyên gia (HCI có vấn đề)
 
-Chạy file .exe trong bin/Debug/ để chạy chương trình.
 Chương trình sử dụng Winform .NET Framework (Mở file .sln bằng Visual Studio để chạy project).\
 **Hướng dẫn sử dụng:**
 - Hơi bị nhiều chức năng á, một số feature mà mình khá thích đó là xóa bớt xong có thể undo nè, tìm kiếm hoạt động khá smooth nè :3  
