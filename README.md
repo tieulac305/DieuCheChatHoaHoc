@@ -1,6 +1,6 @@
 # Simple Chemical Expert System
 
-## Điều chế chất hóa học sử dụng hệ chuyên gia (HCI có vấn đề)
+## Điều chế chất hóa học sử dụng hệ chuyên gia (nhìn hơi xấu)
 
 Chương trình sử dụng Winform .NET Framework (Mở file .sln bằng Visual Studio để chạy project).\
 **Hướng dẫn sử dụng:**
